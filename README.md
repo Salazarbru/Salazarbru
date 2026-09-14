@@ -38,5 +38,14 @@ A brief description of what this project does and who it's for
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
+<stdio.h>
+<div align="center">
+
+ </div>
 
 ![snake gif](https://github.com/Salazarbru/Salazarbru/blob/output/github-snake-dark.svg)
+
+  <div align="center">
+   
+![snake gif](https://github.com/Salazarbru/Salazarbru/blob/output/github-snake-dark.svg)
+ </div>
