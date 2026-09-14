@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rodrigo Israel Salazar Perez
+# Rodrigo Israel Salazar Pérez
 
 > 🚀 **Software Engineering Student at Universidad Autónoma de Yucatán**  
 > *Aiming to build a personal software company and help fellow students along the way.*
@@ -9,7 +9,9 @@
 
 ### 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/rodrigoprz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://www.instagram.com/rodmanrique_/?hl=en/" target="_blank"><img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rodrigoprz/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="36" /></a>
+</div>
 
 ---
 
